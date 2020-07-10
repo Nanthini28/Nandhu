@@ -9,7 +9,7 @@ case $empcheck in
 		emphrs=8
 		;;
 	$parttime)
-		emphrs=4
+		emphrs=5
 		;;
 	*)
 	emphrs=0
